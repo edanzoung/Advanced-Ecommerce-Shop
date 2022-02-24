@@ -61,6 +61,12 @@ Django framework and Postgresql database which comes by default with Django.
 ![Capture d’écran (90)](https://user-images.githubusercontent.com/57450098/155456116-7cc46a82-cb4e-466d-83e1-f7d733276b58.png)
 # Admin Brands Table
 ![Capture d’écran (91)](https://user-images.githubusercontent.com/57450098/155456260-51765fd7-5209-4d0e-b119-51415fa67f18.png)
+# Admin Products Categories in tree View with possibility to drag and drop
+![Capture d’écran (123)](https://user-images.githubusercontent.com/57450098/155503181-8fd71bd5-8de5-4c6c-9436-470b7cfaafc8.png)
+
+# Admin Products Details Section With a lot of tools thanks to RichTextUploadingField
+![Capture d’écran (122)](https://user-images.githubusercontent.com/57450098/155503140-9cc255d8-51ce-4a89-a7ef-b7eb0ac4eda9.png)
+
 
 
 # Author
