@@ -70,6 +70,7 @@ Whatsapp: +22670516127
 
 Email: edanzoung@outlook.fr
 
-Leave me a message if you are interessed by the work done in backend. It's a project which can be implemented for any type of ecommerce frontend interface
+Leave me a message if you are interessed by the work done in backend. It's a project which can be implemented for any type of ecommerce frontend interface.
+
 ![pouce-leve-la-main_1056-764-150x150](https://user-images.githubusercontent.com/57450098/155461068-805e3b44-2be1-4b88-ac70-ac6c4f15e623.jpg)
 
