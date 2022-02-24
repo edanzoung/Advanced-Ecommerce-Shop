@@ -5,16 +5,20 @@ This project is an example of Virtual website (E-commerce Website) like Amazon S
 ![Capture d’écran (113)](https://user-images.githubusercontent.com/57450098/155451052-e9dc3aa7-0d94-4be6-98f2-6c89e5484bb5.png)
 ![Capture d’écran (104)](https://user-images.githubusercontent.com/57450098/155451331-f75ad1b5-f79a-4f76-b05f-b38b5b00d96c.png)
 
+
 # Header Section
 ![Capture d’écran (114)](https://user-images.githubusercontent.com/57450098/155451109-52f8e7ab-cc0e-421b-ab86-721fc503340d.png)
 # Footer Section
 ![Capture d’écran (116)](https://user-images.githubusercontent.com/57450098/155451157-85fe44f5-3ec0-48ce-8168-7167aba55b12.png)
+
 
 # Products list
 ![Capture d’écran (102)](https://user-images.githubusercontent.com/57450098/155451817-a237b3e4-f512-4a1a-9579-5be862fc24fc.png)
 ![Capture d’écran (103)](https://user-images.githubusercontent.com/57450098/155451823-b2b363b4-692e-4327-8d9a-858d7cca9dbe.png)
 ![Capture d’écran (121)](https://user-images.githubusercontent.com/57450098/155457597-ea5f1ee0-27be-4eeb-a48e-5e478cf3f2b4.png)
 ![Capture d’écran (119)](https://user-images.githubusercontent.com/57450098/155456686-58a503ce-d7a1-449f-9fa3-c7d4ce606b1a.png)
+
+
 # Pagination
 ![Capture d’écran (120)](https://user-images.githubusercontent.com/57450098/155456775-8eb52bc7-fbf7-4dce-8e54-32d01443859a.png)
 
@@ -30,16 +34,25 @@ At checkout, the item on the cart will be presented as an order. Customers can p
 
 # Login Page
 ![Capture d’écran (117)](https://user-images.githubusercontent.com/57450098/155454739-f42dc3d6-7880-420a-821c-667fec8cba84.png)
+
+
 # Register Page
 ![Capture d’écran (118)](https://user-images.githubusercontent.com/57450098/155454744-38047963-2aaf-469f-b8fe-59f2d0eea878.png)
+
+
 # Customer Dashboard
 ![Capture d’écran (109)](https://user-images.githubusercontent.com/57450098/155454799-f84620ca-36ad-4d7f-9f89-cc0ce61e8315.png)
 ![Capture d’écran (110)](https://user-images.githubusercontent.com/57450098/155454813-fcf4f652-02f4-4c44-bb71-0c4990813989.png)
+
+
 # Customer Receipt With Qr Code After Transaction Completed
 ![receipt](https://user-images.githubusercontent.com/57450098/155454427-d3662927-af29-4db8-b68e-4ef3450401e2.png)
 
+
 # Technologies used in the project: 
 Django framework and Postgresql database which comes by default with Django.
+![python-django](https://user-images.githubusercontent.com/57450098/155459506-1734ad2f-0aa1-4196-bccf-6d8bff4331cb.png) ![pg](https://user-images.githubusercontent.com/57450098/155459529-68faab6c-7d31-40a9-b8dc-f3b43cb6cffa.png) ![jquery_ajax](https://user-images.githubusercontent.com/57450098/155459606-922415c4-0785-458b-9685-606336a03fc6.png)
+
 
 # Admin Custom User Table
 ![Capture d’écran (98)](https://user-images.githubusercontent.com/57450098/155456089-730f4843-9a90-4858-a332-347950a4944b.png)
