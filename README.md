@@ -41,12 +41,12 @@ At checkout, the item on the cart will be presented as an order. Customers can p
 # Technologies used in the project: 
 Django framework and Postgresql database which comes by default with Django.
 
-# Custom User Table
+# Admin Custom User Table
 ![Capture d’écran (98)](https://user-images.githubusercontent.com/57450098/155456089-730f4843-9a90-4858-a332-347950a4944b.png)
 ![Capture d’écran (92)](https://user-images.githubusercontent.com/57450098/155456105-5eb5d6d2-1413-49e5-be0a-b5b83b0cb109.png)
-# Products Table
+# Admin Products Table
 ![Capture d’écran (90)](https://user-images.githubusercontent.com/57450098/155456116-7cc46a82-cb4e-466d-83e1-f7d733276b58.png)
-# Brands Table
+# Admin Brands Table
 ![Capture d’écran (91)](https://user-images.githubusercontent.com/57450098/155456260-51765fd7-5209-4d0e-b119-51415fa67f18.png)
 
 
