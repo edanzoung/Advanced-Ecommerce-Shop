@@ -12,7 +12,7 @@ This project is an example of Virtual website (E-commerce Website) like Amazon S
 ![Capture d’écran (116)](https://user-images.githubusercontent.com/57450098/155451157-85fe44f5-3ec0-48ce-8168-7167aba55b12.png)
 
 
-# Products list
+# Products Card list
 ![Capture d’écran (102)](https://user-images.githubusercontent.com/57450098/155451817-a237b3e4-f512-4a1a-9579-5be862fc24fc.png)
 ![Capture d’écran (103)](https://user-images.githubusercontent.com/57450098/155451823-b2b363b4-692e-4327-8d9a-858d7cca9dbe.png)
 ![Capture d’écran (121)](https://user-images.githubusercontent.com/57450098/155457597-ea5f1ee0-27be-4eeb-a48e-5e478cf3f2b4.png)
