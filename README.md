@@ -27,8 +27,10 @@ This project is limited to some functions of the e-commerce website but with the
 ![Capture d’écran (105)](https://user-images.githubusercontent.com/57450098/155452299-6fde2142-5ae6-44ea-818e-4781c307587d.png)
 ![Capture d’écran (106)](https://user-images.githubusercontent.com/57450098/155452300-ef0163ca-9d47-4454-ba36-f0b4ec7daa3d.png)
 # Shopping Cart
-![Capture d’écran (107)](https://user-images.githubusercontent.com/57450098/155452323-a4be9557-5c3e-43dd-89fd-a292bdbe9653.png)
-![Capture d’écran (108)](https://user-images.githubusercontent.com/57450098/155452340-74284b93-f981-441d-8e8b-060c49216d32.png)
+![Capture d’écran (129)](https://user-images.githubusercontent.com/57450098/162629787-1b7caf5e-897d-4b7e-b9f9-05227a026e34.png)
+![Capture d’écran (130)](https://user-images.githubusercontent.com/57450098/162629805-5b961e89-f190-4b53-9a28-af8e78b95ac8.png)
+![Capture d’écran (131)](https://user-images.githubusercontent.com/57450098/162629809-4d912bfa-b88d-4cee-94e1-d2acb5d8448d.png)
+
 
 At checkout, the item on the cart will be presented as an order. Customers can pay for the items in the cart to complete an order. This project has great future scope. The project also provides security with the use of login ID and passwords, so that no unauthorized users can access your account. The only authorized person who has the appropriate access authority can access the software.
 
