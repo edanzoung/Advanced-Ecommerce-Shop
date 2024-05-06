@@ -1,3 +1,6 @@
+# Live Demo
+Here => <a href="https://react-car-repair.vercel.app/"> Car Repair </a>
+
 # E-commerce Shop Website using Django
 
 This project is an example of Virtual website (E-commerce Website) like Amazon Store. It provides the user with a list of the various products available for purchase in the store. Each product can have a lot of variants depending of size , color or both .For the convenience of online shopping, a shopping cart is provided to the user. After the selection of the goods, it is sent to the cart and then sent for order confirmation process if of course the customer decide to order. The system is implemented using Python’s web framework Django and the template named Essence used for this project is powered by colorlib.
